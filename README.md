@@ -8,4 +8,4 @@ Hi, I'm [Tristan](https://github.com/StnsGeneral)
 
 <br />
 
-[![Tristan's github stats](https://github-readme-stats.vercel.app/api?username=StnsGeneral&show_icons=true)](https://github.com/StnsGeneral)
+[![Tristan's github stats](https://github-readme-stats.vercel.app/api?username=StnsGeneral&show_icons=true&theme=panda)](https://github.com/StnsGeneral)
