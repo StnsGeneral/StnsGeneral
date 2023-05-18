@@ -11,4 +11,4 @@ Hi, I'm [Tristan](https://github.com/StnsGeneral)
 [![Tristan's github stats](https://github-readme-stats.vercel.app/api?username=StnsGeneral&show_icons=true&theme=panda)](https://github.com/StnsGeneral)
 
 
-[Here is a link to my portfolio site if you wish to look at that][(https://vercel.com/stnsgeneral/portfolio/4dcC7uKHdevtrK16m72iyHLbqoA9)]
+[Here is a link to my portfolio site if you wish to look at that](https://portfolio-stnsgeneral.vercel.app/)
