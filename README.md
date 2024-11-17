@@ -1,7 +1,7 @@
 ### Hello World
 Hi, I'm [Tristan](https://github.com/StnsGeneral)
 
-![age](https://img.shields.io/badge/age-32-blue)
+![age](https://img.shields.io/badge/age-35-blue)
 ![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 ![focus](https://img.shields.io/badge/focus-fullstack-brightgreen)
